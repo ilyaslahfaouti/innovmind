@@ -1,3 +1,4 @@
+
 # Eugene - Smart Finance Manager
 
 Eugene is a comprehensive fintech application that combines traditional budget management with cryptocurrency portfolio tracking, powered by AI-driven insights and recommendations.
@@ -191,3 +192,6 @@ For support and questions:
 ---
 
 **Eugene** - Making personal finance management intelligent and accessible for everyone.
+=======
+# innovmind
+>>>>>>> 38eb63ac4de1dd45d02dff8e22ea87e135e90cb4
